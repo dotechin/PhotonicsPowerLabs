@@ -4,7 +4,7 @@ Web portal for simple overview of use.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A breaf description of my project will shortly come.
 
 ## Getting Started
 
@@ -36,9 +36,6 @@ command to run if program contains helper info
 ## Authors
 
 Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
