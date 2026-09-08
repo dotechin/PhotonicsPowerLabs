@@ -1,6 +1,0 @@
-# Default ownership for all files
-* @dotechin
-
-# Optional: require review focus for governance docs
-/docs/ @dotechin
-/.github/ @dotechin
