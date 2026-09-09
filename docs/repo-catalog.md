@@ -26,12 +26,6 @@
 - **Owner:** @dotechin
 - **Applies Governance:** Yes (see primary repo policies)
 
-### TaskScheduler
-- **URL:** https://github.com/dotechin/TaskScheduler
-- **Purpose:** Task scheduling and coordination
-- **Owner:** @dotechin
-- **Applies Governance:** Yes (see primary repo policies)
-
 ### ComplyFood
 - **URL:** https://github.com/dotechin/ComplyFood
 - **Purpose:** Compliance and regulatory tracking for food systems
