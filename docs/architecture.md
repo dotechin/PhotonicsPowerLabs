@@ -12,7 +12,6 @@ The system consists of:
 - **Plugin Repos:**
   - `dotechin/UniqueItemTransferPlugin`
   - `dotechin/CardsTradeMatcherPlugin`
-  - `dotechin/TaskScheduler`
   - `dotechin/ComplyFood`
 
 ## Design Principles

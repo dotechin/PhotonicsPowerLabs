@@ -5,7 +5,6 @@ It defines governance, standards, architecture boundaries, and cross-repository 
 
 - [UniqueItemTransferPlugin](https://github.com/dotechin/UniqueItemTransferPlugin)
 - [CardsTradeMatcherPlugin](https://github.com/dotechin/CardsTradeMatcherPlugin)
-- [TaskScheduler](https://github.com/dotechin/TaskScheduler)
 - [ComplyFood](https://github.com/dotechin/ComplyFood)
 
 > These repositories remain operationally and technically independent (separate codebases, releases, issues, CI/CD, and permissions), while being governed under one formal program structure.
