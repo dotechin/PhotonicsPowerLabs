@@ -11,7 +11,6 @@ Applies to:
 - `dotechin/PhotonicsPowerLabs` (primary umbrella)
 - `dotechin/UniqueItemTransferPlugin`
 - `dotechin/CardsTradeMatcherPlugin`
-- `dotechin/TaskScheduler`
 - `dotechin/ComplyFood`
 
 ## 3) Repository Authority Model
