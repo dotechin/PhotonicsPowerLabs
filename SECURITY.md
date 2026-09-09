@@ -7,7 +7,6 @@ This policy applies to:
 - dotechin/PhotonicsPowerLabs
 - dotechin/UniqueItemTransferPlugin
 - dotechin/CardsTradeMatcherPlugin
-- dotechin/TaskScheduler
 - dotechin/ComplyFood
 
 ## Reporting a Vulnerability
